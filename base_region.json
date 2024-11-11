@@ -1,0 +1,1038 @@
+[
+    {
+        "Base": "ACE",
+        "Region": "SPM"
+    },
+    {
+        "Base": "AGA",
+        "Region": "SPM"
+    },
+    {
+        "Base": "AGP",
+        "Region": "SPM"
+    },
+    {
+        "Base": "ALC",
+        "Region": "SPM"
+    },
+    {
+        "Base": "ARN",
+        "Region": "UK/N.EUR"
+    },
+    {
+        "Base": "ATH",
+        "Region": "SEE"
+    },
+    {
+        "Base": "BCN",
+        "Region": "SPM"
+    },
+    {
+        "Base": "BDS",
+        "Region": "SEE"
+    },
+    {
+        "Base": "BER",
+        "Region": "GER"
+    },
+    {
+        "Base": "BFS",
+        "Region": "UK/N.EUR"
+    },
+    {
+        "Base": "BGY",
+        "Region": "SEE"
+    },
+    {
+        "Base": "BHX",
+        "Region": "UK/N.EUR"
+    },
+    {
+        "Base": "BLL",
+        "Region": "UK/N.EUR"
+    },
+    {
+        "Base": "BLQ",
+        "Region": "SEE"
+    },
+    {
+        "Base": "BOD",
+        "Region": "SPM"
+    },
+    {
+        "Base": "BOH",
+        "Region": "UK/N.EUR"
+    },
+    {
+        "Base": "BRI",
+        "Region": "SEE"
+    },
+    {
+        "Base": "BRS",
+        "Region": "UK/N.EUR"
+    },
+    {
+        "Base": "BRU",
+        "Region": "SPM"
+    },
+    {
+        "Base": "BTS",
+        "Region": "DMAM"
+    },
+    {
+        "Base": "BUD",
+        "Region": "SEE"
+    },
+    {
+        "Base": "BVA",
+        "Region": "SPM"
+    },
+    {
+        "Base": "CAG",
+        "Region": "SEE"
+    },
+    {
+        "Base": "CFU",
+        "Region": "SEE"
+    },
+    {
+        "Base": "CGN",
+        "Region": "GER"
+    },
+    {
+        "Base": "CHQ",
+        "Region": "SEE"
+    },
+    {
+        "Base": "CIA",
+        "Region": "SEE"
+    },
+    {
+        "Base": "CRL",
+        "Region": "SPM"
+    },
+    {
+        "Base": "CTA",
+        "Region": "SEE"
+    },
+    {
+        "Base": "DBV",
+        "Region": "DMAM"
+    },
+    {
+        "Base": "DUB",
+        "Region": "DUB"
+    },
+    {
+        "Base": "EDI",
+        "Region": "UK/N.EUR"
+    },
+    {
+        "Base": "EIN",
+        "Region": "GER"
+    },
+    {
+        "Base": "EMA",
+        "Region": "UK/N.EUR"
+    },
+    {
+        "Base": "FAO",
+        "Region": "SPM"
+    },
+    {
+        "Base": "FCO",
+        "Region": "SEE"
+    },
+    {
+        "Base": "FEZ",
+        "Region": "SPM"
+    },
+    {
+        "Base": "FKB",
+        "Region": "GER"
+    },
+    {
+        "Base": "FMM",
+        "Region": "GER"
+    },
+    {
+        "Base": "FNC",
+        "Region": "SPM"
+    },
+    {
+        "Base": "FRA",
+        "Region": "GER"
+    },
+    {
+        "Base": "GDN",
+        "Region": "UK/N.EUR"
+    },
+    {
+        "Base": "GOT",
+        "Region": "UK/N.EUR"
+    },
+    {
+        "Base": "GRO",
+        "Region": "SPM"
+    },
+    {
+        "Base": "HHN",
+        "Region": "GER"
+    },
+    {
+        "Base": "IBZ",
+        "Region": "SPM"
+    },
+    {
+        "Base": "KRK",
+        "Region": "UK/N.EUR"
+    },
+    {
+        "Base": "KTW",
+        "Region": "UK/N.EUR"
+    },
+    {
+        "Base": "KUN",
+        "Region": "UK/N.EUR"
+    },
+    {
+        "Base": "CPH",
+        "Region": "DMAM"
+    },
+    {
+        "Base": "VIE",
+        "Region": "DMAM"
+    },
+    {
+        "Base": "ZAD",
+        "Region": "DMAM"
+    },
+    {
+        "Base": "ZAG",
+        "Region": "DMAM"
+    },
+    {
+        "Base": "LBA",
+        "Region": "UK/N.EUR"
+    },
+    {
+        "Base": "LIS",
+        "Region": "SPM"
+    },
+    {
+        "Base": "LPA",
+        "Region": "SPM"
+    },
+    {
+        "Base": "LPL",
+        "Region": "UK/N.EUR"
+    },
+    {
+        "Base": "LTN",
+        "Region": "UK/N.EUR"
+    },
+    {
+        "Base": "MAD",
+        "Region": "SPM"
+    },
+    {
+        "Base": "MAN",
+        "Region": "UK/N.EUR"
+    },
+    {
+        "Base": "MLA",
+        "Region": "SEE"
+    },
+    {
+        "Base": "MRS",
+        "Region": "SPM"
+    },
+    {
+        "Base": "MXP",
+        "Region": "SEE"
+    },
+    {
+        "Base": "NAP",
+        "Region": "SEE"
+    },
+    {
+        "Base": "NCL",
+        "Region": "UK/N.EUR"
+    },
+    {
+        "Base": "NRN",
+        "Region": "GER"
+    },
+    {
+        "Base": "NUE",
+        "Region": "GER"
+    },
+    {
+        "Base": "OPO",
+        "Region": "SPM"
+    },
+    {
+        "Base": "ORK",
+        "Region": "IRE"
+    },
+    {
+        "Base": "OTP",
+        "Region": "SEE"
+    },
+    {
+        "Base": "PDL",
+        "Region": "SPM"
+    },
+    {
+        "Base": "PFO",
+        "Region": "SEE"
+    },
+    {
+        "Base": "PIK",
+        "Region": "UK/N.EUR"
+    },
+    {
+        "Base": "PMI",
+        "Region": "SPM"
+    },
+    {
+        "Base": "PMO",
+        "Region": "SEE"
+    },
+    {
+        "Base": "POZ",
+        "Region": "UK/N.EUR"
+    },
+    {
+        "Base": "PRG",
+        "Region": "DMAM"
+    },
+    {
+        "Base": "PSA",
+        "Region": "SEE"
+    },
+    {
+        "Base": "PSR",
+        "Region": "SEE"
+    },
+    {
+        "Base": "RAK",
+        "Region": "SPM"
+    },
+    {
+        "Base": "REG",
+        "Region": "SEE"
+    },
+    {
+        "Base": "RIX",
+        "Region": "UK/N.EUR"
+    },
+    {
+        "Base": "SCQ",
+        "Region": "SPM"
+    },
+    {
+        "Base": "SEN",
+        "Region": "UK/N.EUR"
+    },
+    {
+        "Base": "SKG",
+        "Region": "SEE"
+    },
+    {
+        "Base": "SNN",
+        "Region": "IRE"
+    },
+    {
+        "Base": "SOF",
+        "Region": "SEE"
+    },
+    {
+        "Base": "STN",
+        "Region": "STN"
+    },
+    {
+        "Base": "SUF",
+        "Region": "SEE"
+    },
+    {
+        "Base": "SVQ",
+        "Region": "SPM"
+    },
+    {
+        "Base": "TFS",
+        "Region": "SPM"
+    },
+    {
+        "Base": "TLS",
+        "Region": "SPM"
+    },
+    {
+        "Base": "TNG",
+        "Region": "SPM"
+    },
+    {
+        "Base": "TRN",
+        "Region": "SEE"
+    },
+    {
+        "Base": "TRS",
+        "Region": "SEE"
+    },
+    {
+        "Base": "TSF",
+        "Region": "SEE"
+    },
+    {
+        "Base": "VCE",
+        "Region": "SEE"
+    },
+    {
+        "Base": "VLC",
+        "Region": "SPM"
+    },
+    {
+        "Base": "VNO",
+        "Region": "UK/N.EUR"
+    },
+    {
+        "Base": "WMI",
+        "Region": "UK/N.EUR"
+    },
+    {
+        "Base": "WRO",
+        "Region": "UK/N.EUR"
+    },
+    {
+        "Base": "AAL",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "AAR",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "ABZ",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "ADB",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "AHO",
+        "Region": "SEE"
+    },
+    {
+        "Base": "AMM",
+        "Region": "HM"
+    },
+    {
+        "Base": "AMS",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "AOI",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "APLX",
+        "Region": "HM"
+    },
+    {
+        "Base": "AYT",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "BEM",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "BIQ",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "BJV",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "BNX",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "BOJ",
+        "Region": "SEE"
+    },
+    {
+        "Base": "BRE",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "BRQ",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "BSL",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "BVE",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "BZG",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "BZR",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "CCF",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "CDT",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "CFE",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "CLJ",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "CRV",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "CUF",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "CWL",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "DGX",
+        "Region": "HM"
+    },
+    {
+        "Base": "DLE",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "DLM",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "DRS",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "DTM",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "DUS",
+        "Region": "GER"
+    },
+    {
+        "Base": "EFL",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "EGC",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "ERF",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "ERH",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "ESU",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "EXT",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "FMO",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "FNI",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "FRL",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "FSC",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "FUE",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "GLA",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "GNB",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "GOA",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "GPA",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "HAM",
+        "Region": "GER"
+    },
+    {
+        "Base": "HEL",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "HER",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "IAS",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "INI",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "JMK",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "JSI",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "JTR",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "KAMS",
+        "Region": "HM"
+    },
+    {
+        "Base": "KBP",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "KEF",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "KGS",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "KIR",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "KLU",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "KLX",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "KSC",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "KVA",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "LCA",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "LCJ",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "LDE",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "LDY",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "LEI",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "LEJ",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "LGW",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "LIG",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "LIL",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "LLA",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "LNZ",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "LPP",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "LRH",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "LUX",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "LUZ",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "MAH",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "MME",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "MMX",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "MST",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "NCE",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "NDR",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "NOC",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "NQY",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "NTE",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "NWI",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "NYO",
+        "Region": "UK/N.EUR"
+    },
+    {
+        "Base": "OLB",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "ORB",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "OSI",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "OSL",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "OSR",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "OUD",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "OVD",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "OZZ",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "PAD",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "PAMS",
+        "Region": "HM"
+    },
+    {
+        "Base": "PDV",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "PED",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "PEG",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "PGF",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "PIS",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "PLQ",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "PMF",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "PUY",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "PVK",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "RBA",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "RDZ",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "REU",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "RHO",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "RJK",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "RMF",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "RMI",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "RMU",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "RVN",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "RZE",
+        "Region": "HM"
+    },
+    {
+        "Base": "SAW",
+        "Region": "HM"
+    },
+    {
+        "Base": "SDR",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "SFT",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "SJJ",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "SPU",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "STR",
+        "Region": "GER"
+    },
+    {
+        "Base": "SVQH",
+        "Region": "HM"
+    },
+    {
+        "Base": "SXB",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "SZG",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "SZY",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "SZZ",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "TAT",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "TER",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "TFN",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "TGD",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "TIA",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "TLL",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "TLV",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "TPS",
+        "Region": "SEE"
+    },
+    {
+        "Base": "TRF",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "TSR",
+        "Region": "SEE"
+    },
+    {
+        "Base": "TTU",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "TUF",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "VAR",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "VCV",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "VGO",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "VIT",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "VLL",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "VRN",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "VST",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "VXO",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "WAMS",
+        "Region": "HM"
+    },
+    {
+        "Base": "WAW",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "XCR",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "XRY",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "ZAZ",
+        "Region": "OUTSTATION"
+    },
+    {
+        "Base": "ZTH",
+        "Region": "OUTSTATION"
+    }
+]
